@@ -7,6 +7,7 @@
 - Jupyter notebook: main_page.ipynb
 - Python file: testfile.py
 - Python file: data.py
+- Csv file: cardio-train.csv
 - README.dm
 - .gitignore 
 
