@@ -11,6 +11,25 @@
 - README.dm
 - .gitignore 
 
+## Programming Languages used and packages:
+- Python 3.8
+- Python packages: Pandas, Numpy, Matplotlib
+
+``` python
+pip install pandas
+```
+
+``` python
+pip install numpy
+```
+
+``` python
+pip install matplotlib
+``` 
+
+pip is automatically installed if you download Python from [python.org](https://www.python.org/).
+
+
 ## How to Run Jupyter
 Jupyter Notebook is an interactive environment for writing and running code. The Notebook in my repository is linked with the iPython kernel and therefore runs Python code. Code cells allow users to run code by clicking 'shift-enter'or by clicking the ▶ button in the toolbar. 'ctrl-enter' runs a selected cell and enters command mode. The Kernel is used to manage running of the code, it can be restarted to nullify all cell outputs or interrupted.
 
