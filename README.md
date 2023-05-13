@@ -15,6 +15,7 @@
 - Python 3.8
 - Python packages: Pandas, Numpy, Matplotlib
 
+Packages can be installed using pip:
 ``` python
 pip install pandas
 ```
